@@ -1,5 +1,9 @@
-﻿using tpmodul7_kelompok_5;
+using tpmodul7_kelompok_5;
 
-KuliahMahasiswa1302213067 zaky = new KuliahMahasiswa1302213067();
+DataMahasiswa1302213067 zaky = new DataMahasiswa1302213067();
 
-zaky.ReadJson();
+zaky.ReadJSON();
+
+KuliahMahasiswa1302213067 zaky1 = new KuliahMahasiswa1302213067();
+
+zaky1.ReadJson();
