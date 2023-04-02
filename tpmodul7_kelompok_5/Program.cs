@@ -1,8 +1,12 @@
 using tpmodul7_kelompok_5;
 
-KuliahMahasiswa1302213016 Mhs = new KuliahMahasiswa1302213016();
+DataMahasiswa1302213016 Mhs = new DataMahasiswa1302213016();
 
 Mhs.ReadJSON();
+
+KuliahMahasiswa1302213016 Mhs1 = new KuliahMahasiswa1302213016();
+
+Mhs1.ReadJSON();
 
 KuliahMahasiswa_1302210097_RizkiMuhammadRidwan objMhs = new KuliahMahasiswa_1302210097_RizkiMuhammadRidwan();
 
