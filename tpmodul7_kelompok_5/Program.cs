@@ -1,5 +1,5 @@
 ﻿using tpmodul7_kelompok_5;
 
-DataMahasiswaFasyaRaihanMaulana objMhs = new DataMahasiswaFasyaRaihanMaulana();
+KuliahMahasiswa1302213067 zaky = new KuliahMahasiswa1302213067();
 
-objMhs.readJSON();
+zaky.ReadJson();
