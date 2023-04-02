@@ -1,5 +1,9 @@
-﻿using tpmodul7_kelompok_5;
+using tpmodul7_kelompok_5;
 
 DataMahasiswa1302213067 zaky = new DataMahasiswa1302213067();
 
 zaky.ReadJSON();
+
+DataMahasiswaFasyaRaihanMaulana objMhs = new DataMahasiswaFasyaRaihanMaulana();
+
+objMhs.readJSON();
